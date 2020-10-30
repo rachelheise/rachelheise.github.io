@@ -4,9 +4,12 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
 ---
 
 # This is my awesome website
 
 [About me](about.html)
+
+# Subtitle
+
+# Subtitle 2
