@@ -1,13 +1,43 @@
 ---
-title: "About me"
+title: "About Me"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# This page has information about me
+# Experience
 
-I'm a student at Columbia.
+### Northrop Grumman
+Model-Based Systems Engineering
+
+Scrum Master
+
+Project Management
+
+### Honda of America Mfg.
+Mass Production Quality Co-op
+
+### CooperVision
+Continuous Improvement Co-op
+
+### Penske Truck Leasing
+Operational Excellence Co-op
+
+# Education
+
+Master of Science in Biostatistics, Columbia University, expected May 2022
+
+Master of Engineering in Engineering Management awarded May 2018
+
+Bachelor of Science in Industrial Engineering awarded May 2018
+
+# Projects
+Hot Wheelz Formula Hybrid Team Project Manager
+
+
+# Skills
+Python, R, Tableau, Phoenix ModelCenter, GitHub/Bitbucket
+
 
 

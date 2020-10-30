@@ -1,15 +1,13 @@
 ---
-title: "My awesome website"
+title: "Rachel Heise"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# This is my awesome website
+I am currently a student in the MS Biostatistics program at Columbia's Mailman School of Public Health, expected graduation in 2022.
 
-[About me](about.html)
+Visit the [About Me](about.html) page to learn more.
 
-# Subtitle
-
-# Subtitle 2
+![](images/headshot.jpg){width=30%}
