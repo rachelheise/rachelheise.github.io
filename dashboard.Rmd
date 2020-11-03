@@ -5,6 +5,7 @@ output:
     orientation: columns
     vertical_layout: fill
     source: embed
+runtime: shiny
 ---
 
 ```{r setup, include=FALSE}
@@ -12,34 +13,53 @@ library(tidyverse)
 library(p8105.datasets)
 library(plotly)
 library(flexdashboard)
+library(shiny)
 ```
 
 
-```{r}
-data("rest_inspec")
+```{r, include = FALSE}
+data("instacart")
+head(instacart)
 
+instacart = instacart %>% 
+  sample_n(10000)
 ```
 
-Column {data-width=650}
+Column {data-width=500}
 -----------------------------------------------------------------------
 
-### Chart A
+### Order Items from Each Department were Added to Cart
 
 ```{r}
-
+instacart %>% 
+  plot_ly(x = ~department, y = ~add_to_cart_order, color = ~department,
+          alpha = 0.5,
+          type = "box")
 ```
 
-Column {data-width=350}
+Column {data-width=500}
 -----------------------------------------------------------------------
 
-### Chart B
+### Most Popular Items
 
 ```{r}
-
+instacart %>% 
+  group_by(product_name) %>%
+  mutate(count = n()) %>% 
+  distinct(product_name, .keep_all = TRUE) %>% 
+  filter(count > 30) %>% 
+  arrange(desc(count)) %>% 
+  plot_ly(x = ~product_name, y = ~count,
+          alpha = 0.5,
+          type = "bar") %>% 
+  layout(margin = list(b = 100))
 ```
 
-### Chart C
+### Order Number and Days Since Previous Order
 
 ```{r}
-
+instacart %>% 
+  filter(add_to_cart_order == 1) %>% 
+  plot_ly(x = ~order_number, y = ~days_since_prior_order, color = ~department,
+          type = "scatter")
 ```

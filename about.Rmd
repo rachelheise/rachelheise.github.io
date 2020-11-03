@@ -6,38 +6,48 @@ output:
     toc_float: true
 ---
 
+I am currently a student pursuing an MS degree in Biostatistics at Columbia Unviersity's Mailman School of Public Health. I graduated in 2018 from Rochester Institute of Technology with a Bachelors degree in Industrial Engineering and a Masters of Engineering degree in Engineering Management. I worked in the defense industry before deciding to go back to school for Biostatistics.
+
 # Experience
 
-### Northrop Grumman
-Model-Based Systems Engineering
+### Northrop Grumman 2018 - present
+I was part of the Pathways rotational program at NGC, and my most recent rotation I was in a Model-Based Systems Engineering role as the Scrum Master for an Internal Research and Development project.
 
-Scrum Master
+My first rotation was in Project Management, where I managed an $8M project to move semiconductor manufacturing equipment from one clean room to a new space.
 
-Project Management
+### Honda of America Mfg. 2017
+As a Mass Production Quality Co-op, I worked on the Accord, ILX, and TLX line in Marysville, OH, coordinating with suppliers to address quality issues.
 
-### Honda of America Mfg.
-Mass Production Quality Co-op
+### CooperVision 2016
+In my role as Continuous Improvement Co-op at CooperVision, I implemented time studies for process improvement on a packaging line.
 
-### CooperVision
-Continuous Improvement Co-op
-
-### Penske Truck Leasing
-Operational Excellence Co-op
+### Penske Truck Leasing 2015
+At Penske Truck Leasing I was in an Operational Excellence Co-op role where I performed DOEs to improve the cleaning process for Diesel Particulate Filters.
 
 # Education
 
 Master of Science in Biostatistics, Columbia University, expected May 2022
 
-Master of Engineering in Engineering Management awarded May 2018
+Master of Engineering in Engineering Management, Rochester Institute of Technology, awarded May 2018
 
-Bachelor of Science in Industrial Engineering awarded May 2018
+Bachelor of Science in Industrial Engineering, Rochester Institute of Technology, awarded May 2018
+
+# Coursework
+
+## Columbia University
+* Data Science I
+* Biostatistical Methods I
+* Probability
+* Principles of Epidemiology I
 
 # Projects
-Hot Wheelz Formula Hybrid Team Project Manager
+
+## Formula Hybrid Project Manager
+During my undergraduate studies, I was on the Hot Wheelz Formula Hybrid Team and led the team as Project Manager during my final year. I managed a $100k budget, timeline, and design process for the Hybrid car that the team fully designed and built during a one year time period.
 
 
 # Skills
-Python, R, Tableau, Phoenix ModelCenter, GitHub/Bitbucket
+Python, R, Tableau, Phoenix ModelCenter, GitHub/Bitbucket, Scrum, Agile, LaTeX, Microsoft Project, Simio, Green Belt in Lean Six Sigma
 
 
 

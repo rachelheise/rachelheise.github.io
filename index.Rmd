@@ -6,8 +6,13 @@ output:
     toc_float: true
 ---
 
-I am currently a student in the MS Biostatistics program at Columbia's Mailman School of Public Health, expected graduation in 2022.
+![](images/headshot.jpg){width=40%}
+
+## Brief Overview
+
+I am currently a student in the MS Biostatistics program at Columbia's Mailman School of Public Health, expected graduation in 2022. I have an engineering background and a BS and ME from Rochester Institute of Technology.
+
+## To Learn More
 
 Visit the [About Me](about.html) page to learn more.
 
-![](images/headshot.jpg){width=30%}
