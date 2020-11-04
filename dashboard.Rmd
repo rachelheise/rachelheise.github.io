@@ -29,7 +29,7 @@ instacart = instacart %>%
 Column {data-width=500}
 -----------------------------------------------------------------------
 
-### Order Items from Each Department were Added to Cart
+### Order Items from Each Produce Aisle were Added to Cart
 
 ```{r}
 instacart %>% 
@@ -43,7 +43,7 @@ instacart %>%
 Column {data-width=500}
 -----------------------------------------------------------------------
 
-### Most Popular Items
+### Most Popular Produce Items
 
 ```{r}
 instacart %>% 
