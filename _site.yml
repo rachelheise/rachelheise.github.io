@@ -6,11 +6,11 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
-      href: mailto:<rachelheise5@gmail.com>
+      href: mailto:<rsh2155@cumc.columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/rachelheise/
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/rachel-heise-7741b5a4
 output:
   html_document:
-    theme: cerulean
+    theme: flatly

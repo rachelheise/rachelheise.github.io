@@ -6,11 +6,16 @@ output:
     toc_float: true
 ---
 
-![](images/headshot.jpg){width=40%}
+![](images/headshot.jpg){width=50%}
 
 ## Brief Overview
 
-I am currently a student in the MS Biostatistics program at Columbia's Mailman School of Public Health, expected graduation in 2022. I have an engineering background and a BS and ME from Rochester Institute of Technology.
+I am currently working as a Research Biostatistician I at Weill Cornell Medicine, and I've been at WCM for the past two years.  Before coming to Cornell, I completed my MS in Biostatistics at Columbia's Mailman School of Public Health in 2022. Prior to graduate school, I worked as an engineer and received my BS in Industrial Engineering and ME in Engineering Management from Rochester Institute of Technology.
+
+In my spare time, I enjoy hiking, yoga, and finding new books to read (both fiction and non-fiction). I also love exploring NYC and discovering great coffee shops!
+
+![](images/hiking.jpg){width=40%}
+
 
 ## To Learn More
 
